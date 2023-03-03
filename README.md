@@ -7,7 +7,8 @@ For this project, you need to install [Java](https://jdk.java.net/), [Gradle](ht
 ### Elements:
 - Nome: Afonso Monteiro | número UP: up201907284 | Autoavaliação: 18 |Contribuição(%): 40%
 - Nome: Nuno Melo | número UP: up202003324 | Autoavaliação: 18 |Contribuição(%): 40%
-- Nome: Gabriel Martins | número UP: up201906072 | Autoavaliação: 17 |Contribuição(%): %
+- Nome: Gabriel Martins | número UP: up201906072 | Autoavaliação: 17 |Contribuição(%): 10%
+- Nome: Pedro Azevedo | número UP: up201905966 | Autoavaliação: 17 |Contribuição(%): 10% 
 
 ##Global project grade (self-assesment):
     17
